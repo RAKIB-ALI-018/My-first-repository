@@ -1,4 +1,4 @@
 # My-first-repository
 This is my first git repository
 <br>
-Author - Rakib Ali
+Authors - Rakib Ali and Co.
